@@ -1,4 +1,4 @@
-# TWOLD Inspirations
+TWOLD Inspirations
 
 ## Books
 
@@ -63,7 +63,7 @@
 | Stranger Things             | Jonathan Strange & Mr. Norrell | Foyle's War         |
 | RWBY                        | Watchmen                       | Downton Abbey       |
 | Buffy the Vampire Slayer    | Tenkuu Shinpan                 |                     |
-| Angel                       |                                |                     |
+| Angel                       | Alice: Madness Returns         |                     |
 | The Walking Dead            |                                |                     |
 | Supernatural                |                                |                     |
 | The Office                  |                                |                     |
@@ -84,3 +84,33 @@
 * Tenkuu Shinpan
 * Gantz
 * The Walking Dead
+
+## Compelling Impetus / Tensions
+
+| Teams                          | Impetus                                                      |
+| ------------------------------ | ------------------------------------------------------------ |
+|                                |                                                              |
+| Alice: Madness Returns         | Mystery, Isolation, Delayed Vindication                      |
+| Dark City                      | Mystery, Isolation                                           |
+| Dark Souls                     | Mystery, Isolation                                           |
+| Foyle's War                    | Delayed Vindication, Ideological Disagreements               |
+| Gantz                          | Mystery, Vulnerability/Desperation, Challenge                |
+| Jonathan Strange & Mr. Norrell | Mystery, Challenge, Vulnerability/Desperation, Isolation, Ideological Disagreements, Delayed Vindication |
+| Naruto                         | Challenge, Ideological Disagreements                         |
+| Neverwinter Nights             | Society in Chaos                                             |
+| North and South                | Ideological Disagreements                                    |
+| RWBY                           | Challenge, Ideological Disagreements                         |
+| Stranger Things                | Mystery, Isolation                                           |
+| Tenkuu Shinpan                 | Mystery, Vulnerability/Desperation, Challenge, Isolation     |
+| The Lady in White              | Vulnerability/Desperation, Isolation                         |
+| The Walking Dead               | Vulnerability/Desperation, Ideological Disagreements         |
+
+* From that list we get:
+  * Challenge
+  * Delayed Vindication (Particularly when characters are silently waiting for vindication)
+  * Ideological Tensions
+  * Isolation / Loneliness / Longing to band together with other characters
+  * Mystery
+  * Society in Chaos
+  * Vulnerability/Desperation
+* I don't want a passive hero
