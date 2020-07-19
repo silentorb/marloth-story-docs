@@ -90,12 +90,12 @@ TWOLD Inspirations
 | Teams                          | Impetus                                                      |
 | ------------------------------ | ------------------------------------------------------------ |
 |                                |                                                              |
-| Alice: Madness Returns         | Mystery, Isolation, Delayed Vindication                      |
+| Alice: Madness Returns         | Mystery, Isolation, Injustice                                |
 | Dark City                      | Mystery, Isolation                                           |
 | Dark Souls                     | Mystery, Isolation                                           |
-| Foyle's War                    | Delayed Vindication, Ideological Disagreements               |
+| Foyle's War                    | Injustice, Ideological Disagreements                         |
 | Gantz                          | Mystery, Vulnerability/Desperation, Challenge                |
-| Jonathan Strange & Mr. Norrell | Mystery, Challenge, Vulnerability/Desperation, Isolation, Ideological Disagreements, Delayed Vindication |
+| Jonathan Strange & Mr. Norrell | Mystery, Challenge, Vulnerability/Desperation, Isolation, Ideological Disagreements, Injustice |
 | Naruto                         | Challenge, Ideological Disagreements                         |
 | Neverwinter Nights             | Society in Chaos                                             |
 | North and South                | Ideological Disagreements                                    |
@@ -107,8 +107,8 @@ TWOLD Inspirations
 
 * From that list we get:
   * Challenge
-  * Delayed Vindication (Particularly when characters are silently waiting for vindication)
-  * Ideological Tensions
+  * Ideological Disagreements
+  * Injustice (Particularly when characters are silently waiting for vindication)
   * Isolation / Loneliness / Longing to band together with other characters
   * Mystery
   * Society in Chaos

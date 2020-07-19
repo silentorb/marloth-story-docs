@@ -217,6 +217,43 @@ It may be self-delusion, but art is my knee-jerk reaction for capturing all of t
 - A friendship can contain much conflict.  A beautiful friendship can exist with no harmony but consistent caring and self-sacrifice.
   - I don't mean to devalue harmony here.  Harmony is very important but more in its own right, in a section of its own.
 
+### Gothic Christianity
+
+#### Background
+
+It is common in modern epic fantasy for the protagonist to be saving the world from a powerful force of evil.  While I am still formalizing my ideas around this, I am increasingly reaching the conclusion that world-saving-stories are a practice that is both unhelpful and unhealthy.
+
+World-saving-stories have several essential premises that are false:
+
+* The world is mostly good
+* The world can be comprehensively conquered or destroyed
+* The world can be saved by someone other than Christ
+
+That is humanism.
+
+Marloth is a setting I call "Gothic Christianity".  Basically, it emphasizes and dramatizes the fallen state of humanity.  The world is fallen and wicked.  A remnant of good is trying to uphold virtue amidst a sea of vice.  Yet the heroes need not fear, for good cannot be snuffed out, and is the true foundation of the world.  The wicked are dependent upon a Creator they reject.
+
+#### Rules
+
+* The protagonist should never be trying to save the world
+  * With the possible exception for that goal to ultimately be subverted
+    * With the further caveat that subverting primary story goals tends to result in conflicted stories and dissatisfied audiences
+* Narratives should not create a sense that if a particular flicker of good is extinguished then all hope for the world is forever lost
+  * The first Marloth book doesn't entirely keep this rule, but later books should
+* The world of Marloth should never be in danger of being comprehensively conquered by evil or destroyed
+  * A narrative can have characters afraid of such a possibility as long as that fear is eventually disproved, at least to the audience
+* If the world ever is saved at a grand scale, it should be saved by a Christ-character, not a protagonist
+
+#### Reasons
+
+* World saving is a pretentious power-trip
+* World saving loses all sense of scale and relatability
+  * It's ironic that when it comes to world building, save-the-world stories tend to have the most under-developed worlds
+    * The world in such cases may still have much detail, but there is generally a dissonance between the adventures and the world that is being saved
+* World saving is a lazy attempt to add grandeur to a story without any actual investment in depth of impetus
+* Presenting good as a tiny, fragile thing that can get permanently snuffed out is border-line blasphemous
+* Such stories cultivate anxiety over lofty issues the audience has no control over, and distracts from the smaller, immediate concerns the audience actually is responsible for
+
 ### Horror
 
 #### Rules
