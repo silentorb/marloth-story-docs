@@ -242,6 +242,7 @@ Marloth is a setting I call "Gothic Christianity".  Basically, it emphasizes and
   * The first Marloth book doesn't entirely keep this rule, but later books should
 * The world of Marloth should never be in danger of being comprehensively conquered by evil or destroyed
   * A narrative can have characters afraid of such a possibility as long as that fear is eventually disproved, at least to the audience
+  * Marloth is fractured into sub-worlds and those sub-worlds can be destroyed, though in such cases the residents wake up in a lower sub-world
 * If the world ever is saved at a grand scale, it should be saved by a Christ-character, not a protagonist
 
 #### Reasons
