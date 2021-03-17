@@ -5,16 +5,12 @@
 **Part 1**
 
 - Introduce Nivana
-- Introduce Nivana's family
-- Introduce Bishop
+- Introduce Jewel
+- Introduce the Nurse
 - Introduce Millamer
-- Introduce Miles
-- Introduce James' family
-- Introduce Minister and wife
-- James is arrested
-- Nivana's mother is murdered
+- Lady Mediev is attacked
 - Lord Mediev is arrested
-- Nivana and Jewel exiled
+- Nivana is exiled
 
 **Part 2**
 
@@ -24,7 +20,6 @@
 - Nivana meets Beth
 - Nivana meets Adelle
 - Millamer sees Nivana working
-- Jewel dies
 - Nivana seeks training from Desa
 - Millamer turns in Nivana
 - Nivana goes berserk
@@ -34,10 +29,6 @@
 
 **Part 3**
 
-- The heroes locate a copy of Marloth
-- Jewel is alive
-- James reveals Jewel is a zombie child
-
 **Part 4**
 
 **Part 5**
@@ -46,8 +37,7 @@
 
 - The heroes return to the Nameless City
 - Lord Mediev is freed
-- Jewel is being drained of her magic
-- Jewel is rescued
+- Nivana rescues the Legal officials
 - The Nameless City is consumed by evil
 - The heroes escape the City
 

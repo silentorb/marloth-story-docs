@@ -1,4 +1,4 @@
-# Long-running series
+# Long-Running Series
 
 Within the context of this document, I'm defining a long-running series as either a television show that contains more than one season, a book or movie series that contains more than three installments, or a narrative franchise.  The important distinction here is that the series is running long enough to no longer cleanly fit into a three-act storyline.  Trilogies are being ruled out because each book of a trilogy can be loosely divided into a three act structure.  When more than three books are involved, such a division can no longer be cleanly employed.
 
@@ -14,13 +14,13 @@ In general, series make for better franchise origins than one-off installments. 
 
 ### The Star Wars Movie Franchise
 
-The Star Wars franchise has a horrible mess of a narrative framework.  It was never designed to be a narrative franchise.  It became a merchandise franchise before it was a narrative franchise.
+The Star Wars franchise has a shabby narrative framework.  It was never designed to be a narrative franchise.  It became a merchandise franchise before it was a narrative franchise.
 
 The first Star Wars movie has a well constructed story with a variety of quality parts that all fit together in a neat package.  With the Exception of "The Empire Strikes Back", every Star Wars movie after the first has either cloned the original formula or had a flimsy story.  The second star wars movie is an oddity not only within the Star Wars franchise but outside of it as well for having a really weak and off-beat foundation yet working far better than it should due to excellent ideas and execution.
 
 ### The James Bond Movie Franchise
 
-This franchise is formulaic, and fully embraces being formulaic.  The result is movies that are repetitive and shallow, but also stable.  You know what to expect from a Bond movie, and they can keep churning out Bond movies 'til the end of time.
+This franchise is formulaic, and fully embraces being formulaic.  The result is movies that are repetitive and shallow, but also stable.  You know what to expect from a Bond movie, and they can keep churning out Bond movies until the end of time.
 
 ### The Star Trek Movie and TV Franchise
 

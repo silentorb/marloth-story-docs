@@ -1,4 +1,10 @@
-# General Marloth Documentation
+# Marloth Narrative Documentation
+
+## Summary
+
+The purpose of this document is to define the qualities of a Marloth narrative.
+
+## Items
 
 ### Ambiguity
 
