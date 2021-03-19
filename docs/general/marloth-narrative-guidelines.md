@@ -1,4 +1,4 @@
-# Marloth Narrative Documentation
+# Marloth Narrative Guidelines
 
 ## Summary
 
