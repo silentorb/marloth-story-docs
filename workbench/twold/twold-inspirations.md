@@ -18,6 +18,8 @@ TWOLD Inspirations
 * Tenkuu Shinpan
 * Doom Patrol (2016)
 * Spider-Man (Renew Your Vows)
+* Justice League International
+* X-Factor Investigations
 
 ## Games
 
