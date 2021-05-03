@@ -54,27 +54,28 @@ TWOLD Inspirations
 
 ## Organizational Structure
 
-| Teams                       | Independent Agents             | Neither             |
-| --------------------------- | ------------------------------ | ------------------- |
-|                             |                                |                     |
-| Naruto                      | Dark Souls                     | H. P. Lovecraft     |
-| Neverwinter Nights          | Dark City                      | Jane Austen         |
-| Mordheim                    | Batman Returns                 | The Lady in White   |
-| Inception                   | Twin Peaks                     | Alice in Wonderland |
-| Scott Pilgrim vs. the World | Daredevil                      | North and South     |
-| Stranger Things             | Jonathan Strange & Mr. Norrell | Foyle's War         |
-| RWBY                        | Watchmen                       | Downton Abbey       |
-| Buffy the Vampire Slayer    | Tenkuu Shinpan                 |                     |
-| Angel                       | Alice: Madness Returns         |                     |
-| The Walking Dead            |                                |                     |
-| Supernatural                |                                |                     |
-| The Office                  |                                |                     |
-| Gantz                       |                                |                     |
-| Berserk                     |                                |                     |
-| Doom Patrol                 |                                |                     |
-| Spider-Man (RYV)            |                                |                     |
-| Darkest Dungeon             |                                |                     |
-|                             |                                |                     |
+| Teams                        | Independent Agents             | Neither             |
+| ---------------------------- | ------------------------------ | ------------------- |
+|                              |                                |                     |
+| Naruto                       | Dark Souls                     | H. P. Lovecraft     |
+| Neverwinter Nights           | Dark City                      | Jane Austen         |
+| Mordheim                     | Batman Returns                 | The Lady in White   |
+| Inception                    | Twin Peaks                     | Alice in Wonderland |
+| Scott Pilgrim vs. the World  | Daredevil                      | North and South     |
+| Stranger Things              | Jonathan Strange & Mr. Norrell | Foyle's War         |
+| RWBY                         | Watchmen                       | Downton Abbey       |
+| Buffy the Vampire Slayer     | Tenkuu Shinpan                 |                     |
+| Angel                        | Alice: Madness Returns         |                     |
+| The Walking Dead             |                                |                     |
+| Supernatural                 |                                |                     |
+| The Office                   |                                |                     |
+| Gantz                        |                                |                     |
+| Berserk                      |                                |                     |
+| Doom Patrol                  |                                |                     |
+| Spider-Man (RYV)             |                                |                     |
+| Darkest Dungeon              |                                |                     |
+| Justice League International |                                |                     |
+| X-Factor Investigations      |                                |                     |
 
 ### Notes
 
