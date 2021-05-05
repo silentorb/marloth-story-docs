@@ -23,7 +23,7 @@
 * Pharisees oppose strong Christians
 * Pharisees repulse non-Christians
 * Compassion is more important than survival
-* You must worship your dependencies
+* You must worship your dependencies [ I don't know what I was thinking with that? ]
 * Good people are tempted to do evil
 * Compassion is a weakness without Godliness
 
