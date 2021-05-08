@@ -325,6 +325,21 @@ Marloth depends heavily on implication.
 * Implication is the salt of humor.
 * It can add [ambiguity](#ambiguity).
 
+### Isolation
+
+#### Background
+
+Marloth is about being in the company of friends, but it is also introspective.
+
+#### Rules
+
+* Protagonists need scenes where they feel isolated
+  * Other characters can be present, but mostly hostile, mysterious characters
+    * Even then, there should still generally be fewer characters in introspective scenes
+* Avoid isolation scenes that don't add to a collective sense of introspective growth along a personal journey
+  * Minimize scenes where a protagonist is alone and not introspective
+  * If a scene is not particularly introspective, consider ways to add friends to it
+
 ### Legend
 
 #### Background

@@ -96,6 +96,8 @@ Out of all of these, Magic and people are the only neutral dependencies and the 
 
 "Because word's gotten around/about that you can use magic.  You're an empty gun, and no one's fool enough to fill/load you."
 
+
+
 "Hey!  Hey!  Before this place is [further smashed / smashed any more], will someone get me a martini?"
 
 [ Later on: ]
