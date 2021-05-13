@@ -26,7 +26,6 @@ The challenge of TWOLD is to bring stability to a setting that thrives on instab
   - People need people
     - Christians need other Christians (the church)
   - Evil looks powerful yet is powerless
-  - God doesn't need anything
 - Inside every heart is a war between good and evil
   - Good people are tempted to do evil
     - Good people sometimes do bad things
@@ -35,10 +34,3 @@ The challenge of TWOLD is to bring stability to a setting that thrives on instab
   - Evil forces are trying to sway people
   - Good forces are trying to sway people
   - It is not good to be on the sidelines of this war
-- Worship
-  - You must worship your dependencies
-  - Atheists pretend worship is optional
-    - Everyone worships something
-- There is no bargaining with evil
-  - Giving in to evil's demands only results in more evil
-

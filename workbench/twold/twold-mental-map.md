@@ -4,7 +4,7 @@
 
 ## Part 1
 
-### Chapter 1
+### Section 1
 
 #### Investments
 
@@ -21,7 +21,7 @@
 
 #### Points
 
-### Chapter 2
+### Section 2
 
 * Compassion appears weak
 
@@ -36,7 +36,7 @@
 * Horror at the death of others
 * Confusion?
 
-### Chapter 3
+### Section 3
 
 #### Impetus
 
@@ -47,14 +47,15 @@
   * Appreciating God's blessings more
   * Valuing trivialities less
 * Surprise and suspicion that the nightmare may not have been just a dream
-* A beginning sense of transendence
-  * Vague awareness of a larger, more supernatual picture
+* A beginning sense of transcendence
+  * Vague awareness of a larger, more supernatural picture
 * Noticing stronger signs of hypocrisy
   * Accompanied by a growing seed of disgust
 * Beginning to imagine what sort of larger story there might be
 * Beginning to look for hidden meanings and connections
+* Fear as someone is blackmailed to do evil
 
-### Chapter 4
+### Section 4
 
 #### Impetus
 
@@ -64,7 +65,7 @@
 * The sense of community promptly assaulted by rules that divide
 * Horror at lack of control
 * Feeling bullied
-* Frustation from injustice
+* Frustration from injustice
 * The start of desperation
   * Temptation to do evil for self preservation
 * Conviction about considering evil
@@ -74,11 +75,10 @@
 
 * Despite injustice, there is also a faint thread of justice in some of the wicked reaping wickedness against them
 
-### Chapter 5
+### Section 5
 
 #### Impetus
 
-* Fear as someone is blackmailed to do evil
 * Agony as someone gives in to blackmail and betrays people dear to the audience
 * A sense of justice and vindication as evil slays the betrayer
 * Sadness as tragedy after tragedy strikes
@@ -86,7 +86,7 @@
   * Personal circumstances are redefined
   * Previous responsibilities and concerns disappear
 * Foreboding returns and increases to the point of becoming tangible
-* The sense of transendence is heightened as the supernatual begins to steadily haunt the protagonist
+* The sense of transcendence is heightened as the supernatural begins to steadily haunt the protagonist
   * Follow the protagonist, suggesting that the protagonist is a mobile gateway for otherworldly horrors to enter this world
 * Growing desperation
 * Hypocrisy revealed and flaunted
@@ -100,10 +100,22 @@
 
 ## Part 2
 
-
+### Section 6
 
 * False churches are used as a straw man argument against Christianity
 * Evil forces are trying to sway people
+
+
+
+#### Impetus
+
+* Disorientation
+* Mystery
+* Minor relief that the tragic events of the previous chapter seem far behind
+* Foreboding
+* Wonder
+
+
 
 ## Part 3
 

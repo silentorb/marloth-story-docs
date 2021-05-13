@@ -6,6 +6,14 @@ The purpose of this document is to define the qualities of a Marloth narrative.
 
 ## Items
 
+### Allegory
+
+#### Rules
+
+* Include metaphors for real-world issues
+* Avoid any sense of being contrived
+  * The story should 100% flow and make sense without the subtext
+
 ### Ambiguity
 
 #### Rules
@@ -339,6 +347,10 @@ Marloth is about being in the company of friends, but it is also introspective.
 * Avoid isolation scenes that don't add to a collective sense of introspective growth along a personal journey
   * Minimize scenes where a protagonist is alone and not introspective
   * If a scene is not particularly introspective, consider ways to add friends to it
+* Don't glorifying isolation
+  * This is an easy pitfall to slip into
+  * People need people
+  * Don't glorify loners
 
 ### Legend
 
@@ -639,3 +651,24 @@ Whimsy and reason are at odds with each other and form a spectrum.  Generally a 
 * Different locations, characters, and passages can be more whimsical or more rational.
 * Generally elements tied to science and the ordinary should be more rational.
 * Generally elements tied to magic and the extraordinary should be more whimsical.
+
+### Virtue
+
+#### Background
+
+> But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.  - Galatians 5:22-23
+
+> But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere.  - James 3:17
+
+#### Rules
+
+* Design Marloth narratives around depictions of the fruit of the Spirit
+
+* When brainstorming high-level plot ideas and directions, think in terms of how the elements can be broken down into depictions of virtue
+
+* Any depictions of evil should either be an immediate foil for good or setup later depictions of good
+
+  * > As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.  - Genesis 50:20
+  
+  * Don't have depictions of evil for their own sake
+
