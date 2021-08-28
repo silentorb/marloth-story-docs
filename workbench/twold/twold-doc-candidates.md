@@ -8,8 +8,8 @@
 
 ### Genre Requirements
 
-* Must be over a significant enough period of time to require sustainance and not just avoiding dangers
-  * That is what Surival as a genre normally means.  Robinson Crusoe is a classic survival story.
+* Must be over a significant enough period of time to require sustenance and not just avoiding dangers
+  * That is what Survival as a genre normally means.  Robinson Crusoe is a classic survival story.
   * This rules out many horror movies where characters are required to survive some monster over the course of a single night.
 * Ordinary people are not exempt from regularly facing the horrors
   * In other words, survival horror takes place in a world where most people live ordinary lives and only heroes and occasional unfortunates have run-ins with horrors

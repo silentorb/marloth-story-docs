@@ -273,23 +273,23 @@ Marloth is a setting I call "Gothic Christianity".  Basically, it emphasizes and
 
 #### Rules
 
-* Each narrative must include a significant amount of moral horror.
-* Each narrative must include a significant amount of creepiness.
-* Avoid gross happenings.
+* Each narrative must include a significant amount of moral horror
+* Each narrative must include a significant amount of creepiness
+* Avoid gross happenings
   * This includes:
     * Gruesome violence
     * Body horror
     * Creepy crawlies
-* It is okay for horror to be violent as long as it is not gruesome or any gruesomeness is purely implied.
+* It is okay for horror to be violent as long as it is not gruesome or any gruesomeness is purely implied
   * Examples:
-    * It is okay for a person to get stabbed in the torso.
-    * It is not okay for a person to get stabbed in the eye.
-      * There could be exceptions to this case such as if a main character losing an eye added a lot to the rest of the story.
-    * It is okay for a person to fall to their death as long as impact is not described.
+    * It is okay for a person to get stabbed in the torso
+    * It is not okay for a person to get stabbed in the eye
+      * There could be exceptions to this case such as if a main character losing an eye added a lot to the rest of the story
+    * It is okay for a person to fall to their death as long as impact is not described
 * When horrific things are happening, rely heavily on [implication](#implication) and [euphemisms](#euphemisms).
 * Do not try to scare the audience.
   * It is fine if the audience is scared, but don't try to force it.  Don't include elements whose purpose is to scare the audience.
-  * It is fine for characters in a narrative to be scared.
+  * It is fine for characters in a narrative to be scared
 
 ### Ideological Contests
 
@@ -299,12 +299,12 @@ While Marloth is not about [personal contests](#personal-contests), it is about 
 
 #### Rules
 
-- A Marloth narrative must be filled with ideological conflicts.
-- Ideological conflicts should not be resolved quickly.
-- An ideological conflict should never be resolved over the course of a single scene.
-- They should resolve over at least a part's worth of time.
+- A Marloth narrative must be filled with ideological conflicts
+- Ideological conflicts should not be resolved quickly
+- An ideological conflict should never be resolved over the course of a single scene
+- They should resolve over at least a part's worth of time
 - Each narrative should have multiple scenes with public forums.  The world is the stage.
-- Ideologies are mostly defined by what a person worships.
+- Ideologies are mostly defined by what a person worships
 
 #### Reasons
 
@@ -319,19 +319,19 @@ Marloth depends heavily on implication.
 
 #### Rules
 
-* Whenever something can be deduced, provide just enough information to require that deduction.
-* Use pronouns liberally, as long as it does not cause [ambiguity](#ambiguity).
-  * All ambiguous pronouns are [confusing](#confusion).
+* Whenever something can be deduced, provide just enough information to require that deduction
+* Use pronouns liberally, as long as it does not cause [ambiguity](#ambiguity)
+  * All ambiguous pronouns are [confusing](#confusion)
   * Exception: if the identity of the target is clearly hidden from the reader.
     * Example: "Suddenly **someone** screamed."
 
 #### Reasons
 
-* It exercises the reader's imagination.
-* It adds a sense of mystery.
-* It can assist brevity.
-* Implication is the salt of humor.
-* It can add [ambiguity](#ambiguity).
+* It exercises the reader's imagination
+* It adds a sense of mystery
+* It can assist brevity
+* Implication is the salt of humor
+* It can add [ambiguity](#ambiguity)
 
 ### Isolation
 
@@ -356,17 +356,17 @@ Marloth is about being in the company of friends, but it is also introspective.
 
 #### Background
 
-A legend is a dense, tense, composite idea.
+A legend is a dense, tense, composite idea
 
 When an audience witnesses multiple versions of a character or story, those different versions are compiled into a singular, blurry composite idea.  The different versions contained within this idea are both unified and conflicting.  That tension is legend.
 
 #### Rules
 
-* A Marloth narrative should have a strong sense of being legendary.
-* This sense of legendary should not be confused with pomp and grandeur.
-  * It is not grand.
-* This sense of legendary should be personal and intimate.
-  * It is an understanding shared by only a few characters instead of a general world of characters.
+* A Marloth narrative should have a strong sense of being legendary
+* This sense of legendary should not be confused with pomp and grandeur
+  * It is not grand
+* This sense of legendary should be personal and intimate
+  * It is an understanding shared by only a few characters instead of a general world of characters
 
 ### Mania
 
@@ -419,10 +419,10 @@ I love mystery, but I don't like mystery novels.  The term *mystery novel* is al
 
 #### Rules
 
-* As much as possible, balance the ordinary and extraordinary.
-* At any given time in a narrative, either ordinary or extraordinary must be dominant.
-  * This is less my rule than a natural rule.
-* A narrative can occasionally switch whether ordinary or extraordinary are dominant, but should do so sparingly.
+* As much as possible, balance the ordinary and extraordinary
+* At any given time in a narrative, either ordinary or extraordinary must be dominant
+  * This is less my rule than a natural rule
+* A narrative can occasionally switch whether ordinary or extraordinary are dominant, but should do so sparingly
 
 #### Reasons
 
@@ -594,50 +594,65 @@ Eventually Marloth will probably need more specialized bread-and-butter activiti
 
 #### Reasons
 
-* I tend to prefer narratives with strong temporal continuity.
-* Marloth narratives should have a significant sense of progress.
-* Marloth scenes should be deeply overlaid with historical significance.
+* I tend to prefer narratives with strong temporal continuity
+* Marloth narratives should have a significant sense of progress
+* Marloth scenes should be deeply overlaid with historical significance
+
+### Trauma
+
+#### Background
+
+* Much of the drama in Marloth is dependent on trauma
+* Trauma is important but dangerous
+  * Each form of trauma has its own distinct side effects
+  * The side effects are not obvious and need careful attention to be noticed and catalogued
+
+#### Rules
+
+* Major characters in Marloth narratives generally need to be haunted by trauma
+* Forms of trauma need to be chosen with care
+  * Not just any form of trauma is appropriate
 
 ### Villains
 
 #### Rules
 
-- Always plural.
-  - There can be an over-arching villain that sort of represents all the others.
+- Always plural
+  - There can be an over-arching villain that sort of represents all the others
     - This should be downplayed
 - Most major villains should be representatives for villainous forces
   - Focus audience animosity toward the force, not the representative
-- Each major villain should represent a different ideology.
+- Each major villain should represent a different ideology
 - Villains rarely die.
   - And in death I mean permanent death without being resurrected as some kind of zombie.
   - This may eventually be upgraded to "Villains never die."
     - No villains die in the first book; unless the Queen is considered a villain.
       - The fates of some characters such as Bobby and Osmand are never specified.  It's implied that they died a second time but they may have been resurrected by Tralvorkemen.
 - The narrative should never revolve around villains.
-  - In other words, the story should always be more about the heroes than the villains.
-    - The narrative should never be fixated upon villains.
-    - The most major villain is still a supporting role.
-  - Villains can still play an integral part in the plot.
-  - Whole scenes can be devoted to villains scheming.
-    - Just not frequently.
-- Always present the over-the-top best representation of a villain's ideology.
-  - Sometimes other narratives present weak ideological opponents that are easy to deride.
-  - Don't use straw man arguments.
-  - Don't use straw man villains.
+  - In other words, the story should always be more about the heroes than the villains
+    - The narrative should never be fixated upon villains
+    - The most major villain is still a supporting role
+  - Villains can still play an integral part in the plot
+  - Whole scenes can be devoted to villains scheming
+    - Just not frequently
+- Always present the over-the-top best representation of a villain's ideology
+  - Sometimes other narratives present weak ideological opponents that are easy to deride
+  - Don't use straw man arguments
+  - Don't use straw man villains
   - If an ideology is wrong, you should be able to depict the strongest rendition of that ideology and still cleanly defeat it, because reality is opposed to that ideology.
 - Each narrative should have both villain alliances and villain wars.
   - And villains backstabbing each other
 
 #### Reasons
 
-* For me it feels small and narrow to have a single villain.
+* For me it feels small and narrow to have a single villain
 * Having a singular villain tends to require more of a [personal contest](Personal Contests).
-* It is unhealthy to have narratives fixate on villainy.
-* Some of the audience's connection to the story can be lost when more focus is put on the antagonist than the protagonist.
-* Straw man arguments will repulse holders of that ideology where a stronger argument could turn their heart.
+* It is unhealthy to have narratives fixate on villainy
+* Some of the audience's connection to the story can be lost when more focus is put on the antagonist than the protagonist
+* Straw man arguments will repulse holders of that ideology where a stronger argument could turn their heart
 * Straw man arguments are pretentious and immature.  They are a lazy, cheap shot.
 * Richer conflict and storytelling arise when the best versions of two ideologies clash and all of the hard questions are methodically wrestled with and addressed.
-  * Straw man arguments tend to avoid the hard questions.
+  * Straw man arguments tend to avoid the hard questions
 
 ### Whimsy vs. Reason
 

@@ -1,3 +1,25 @@
+Nivana awoke with a start.  She was lying in a strange bed in a strange room.  The room was nearly pitch black.  If it hadn't been for a trickle of light through a small, half-boarded window she would have been effectively blind.
+
+She was not wearing a stitch of clothes.
+
+...
+
+Articles of clothing were scattered about the room.  They did not look familiar, but she [tried them on] and was surprised to find they fit her well.
+
+...
+
+Then there were the voices.  Through the walls echoed muffled screams of agony.  All the voices of women.
+
+...
+
+[ In the hall]
+
+Nivana jolted.  There was a middle-aged woman in front of her.  But that was not what had startled her.
+
+A pair of curling goat's horns protruded from the woman's head.
+
+------
+
 Two men were walking down a street of the City of Orphans.  It was a dangerous street, but they were capable men.
 
 "I want to form a team.  A group of skilled individuals to fight evil. I want you to join me.  Together, we could do anything."
@@ -16,7 +38,35 @@ Two men were walking down a street of the City of Orphans.  It was a dangerous s
 
 [ Is it possible to be both politely evasive and firmly straightforward here? ]
 
-* * * 
+------
+
+"How did you get here?!?"
+
+"I gave nearly all of the money I had to a talking animal.  In return he provided me information."
+
+...
+
+When George turned around, not only the door but entire tree was gone.
+
+------
+
+Nivana suddenly found herself standing in a large, elegant room with a staircase along one of its walls.  She had no memory of how she had arrived there or what had happened.
+
+And something had definitely happened.
+
+Nivana looked down at her hands.  They were covered in blood.  Blood was all around her, adorning the furniture, walls, and some even dripping from the ceiling.  But mostly it was adorning the bodies.
+
+The bodies.  Somehow she knew she had murdered them.
+
+She slowly turned in a circle, soaking in her surroundings.  There must have been at least a dozen bodies.  Some of the cases were [hard/difficult/impossible] to quantify.
+
+*Is this real?* She thought to herself. *Is this really* me*?*
+
+...
+
+*I'm a monster!*
+
+* * *
 
 The journal of George Hurley
 
@@ -59,3 +109,9 @@ Today the head doctor of the Asylum met with me about the girl.  He claimed ther
 "How dare you?" Nivana hissed.
 
 "I dare, because I can.  Go ahead and make a fuss.  See what your father can conjure.  He may be a lord, but my father is a god!  I can do with you as I please.  I could make love to you right now if I liked, if you hadn't suddenly turned so repulsive."
+
+***
+
+
+
+"That is an excellent aspiration and I am fully behind our home being such a place someday, but not tonight."

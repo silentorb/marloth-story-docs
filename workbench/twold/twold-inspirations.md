@@ -27,14 +27,12 @@ TWOLD Inspirations
 * Dark Souls
 * Neverwinter Nights
 * Mordheim
-* Darkest Dungeon
 
 ## Movies
 
-* Inception
-* Scott Pilgrim vs. the World
 * Dark City
 * Batman Returns
+* Scott Pilgrim vs. the World
 
 ## Shows
 
@@ -43,14 +41,13 @@ TWOLD Inspirations
 * Buffy the Vampire Slayer
 * Angel
 * Twin Peaks
-* The Walking Dead
-* Daredevil
 * Jonathan Strange & Mr. Norrell
 * Supernatural
 * Foyle's War
 * Downton Abbey
 * The Lady in White
 * The Office
+* The Walking Dead
 
 ## Organizational Structure
 
@@ -60,22 +57,20 @@ TWOLD Inspirations
 | Naruto                       | Dark Souls                     | H. P. Lovecraft     |
 | Neverwinter Nights           | Dark City                      | Jane Austen         |
 | Mordheim                     | Batman Returns                 | The Lady in White   |
-| Inception                    | Twin Peaks                     | Alice in Wonderland |
-| Scott Pilgrim vs. the World  | Daredevil                      | North and South     |
+| X-Factor Investigations      | Twin Peaks                     | Alice in Wonderland |
+| Scott Pilgrim vs. the World  | Alice: Madness Returns         | North and South     |
 | Stranger Things              | Jonathan Strange & Mr. Norrell | Foyle's War         |
 | RWBY                         | Watchmen                       | Downton Abbey       |
 | Buffy the Vampire Slayer     | Tenkuu Shinpan                 |                     |
-| Angel                        | Alice: Madness Returns         |                     |
-| The Walking Dead             |                                |                     |
+| Angel                        |                                |                     |
 | Supernatural                 |                                |                     |
 | The Office                   |                                |                     |
 | Gantz                        |                                |                     |
 | Berserk                      |                                |                     |
 | Doom Patrol                  |                                |                     |
 | Spider-Man (RYV)             |                                |                     |
-| Darkest Dungeon              |                                |                     |
 | Justice League International |                                |                     |
-| X-Factor Investigations      |                                |                     |
+| The Walking Dead             |                                |                     |
 
 ### Notes
 
