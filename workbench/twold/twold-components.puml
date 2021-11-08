@@ -9,7 +9,7 @@ skinparam componentStyle rectangle
 (James Employed by Agency) as jamesEmployed
 (James and Adelle Meet) as jamesAndAdelleMeet
 cloud "Conflict over Magic" as conflictOverMagic
- cloud "Tension between\nSecular and Sacred" as tensionSS
+cloud "Tension between\nSecular and Sacred" as tensionSS
 (Ignoring friends) as ignoringFriends
 (Nivana Envies Adelle) as nivanaEnvy
 (Nepotism) as nepotism
@@ -40,4 +40,20 @@ question2 <-- heroes
 nivanaArc --> question3
 question3 <-- magicAgency
 nepotism --> nivanaEnvy
+
+note top of question1
+What pulls James
+back into the real world?
+
+The impetus needs to be
+connected to other nodes
+end note
+
+note top of question3
+More particular
+relationship
+than Conflict
+over Magic
+end note
+
 @enduml
