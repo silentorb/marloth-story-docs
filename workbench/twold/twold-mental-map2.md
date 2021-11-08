@@ -6,8 +6,8 @@
 
 ## High Level Map
 
-1. Mysterious Horror Game
 2. Pleasant World
+2. Survival
 3. Banding Together
 4. Missions
 5. Social Collapse

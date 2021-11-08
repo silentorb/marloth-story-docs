@@ -25,7 +25,7 @@ The purpose of this document is to define the qualities of a Marloth narrative.
 
 - [Confusion](#confusion) should be avoided.
 
-#### Reasons
+#### Motivation
 
 * This form of ambiguity adds [dreaminess](#dreamlike).
 * This form of ambiguity is an efficient way of adding [dense](#brevity) depth.
@@ -48,6 +48,22 @@ One of the primary goals of a Marloth narrative is to inspire awe.  Most of the 
 
 Wonder can be a synonym for awe, which is fitting since one of Marloth's primary influences is Lewis Carrol's "The Adventures of Alice in Wonderland".  Marloth is a type of Wonderland.
 
+### Background Protagonists
+
+#### Rules
+
+* Minimize how frequently protagonists are in the foreground
+* When possible, keep protagonists in the background
+
+#### Motivation
+
+* To some degree, protagonists need to be in the foreground
+* Writers have a tendency to keep protagonists in the foreground more than they need to be
+* Rationing protagonist visibility enhances
+  * Humility
+  * Irony
+  * Harmonizing many characters and plot threads
+
 ### Brevity
 
 #### Rules
@@ -63,7 +79,7 @@ The writing style of Marloth is concise. Verbosity should be minimized. This inc
   * Action sequences can be a little more detailed, but should still be no more than a paragraph at a time and sparsely used.
 * Dialogue is allowed lengthier passages.  A single dialogue can span multiple pages, though dialogue of that length should not be frequent.
 
-#### Reasons
+#### Motivation
 
 * I like efficient communication.
 * I don't like filler text.  A reader's time is important and should be used preciously.  The honor of reading is bestowed on the writer, not the reader.
@@ -113,7 +129,7 @@ Narrative is a sequence of transitions from one state to the next.
   * This could be organized under avoiding nonlinear narrative but is worth it's own point for emphasis.
   * Since blurring time is allowed in a Marloth narrative, some notion of prequelishness is allowed, as long as a book is not a pure prequel.
 
-#### Reasons
+#### Motivation
 
 * Drastic state changes increase [dreaminess](#dreaminess).
 
@@ -147,7 +163,7 @@ Sanctuaries are safe and secure.  They invoke warmth.  Warm lighting, warm food,
       * Events that would not normally be expected.
 * Repeat some events where a character who is vaguely aware of the big picture identifies that similar events happened before and this time the character is trying to change the outcome.
 
-#### Reasons
+#### Motivation
 
 * Deja Vu is a critical means of generating [dreaminess](Dreaminess).
 
@@ -169,7 +185,7 @@ Sanctuaries are safe and secure.  They invoke warmth.  Warm lighting, warm food,
 
 * A Marloth narrative should be as dreamlike as possible without interfering with other rules
 
-#### Reasons
+#### Motivation
 
 * Dreaminess is one of the most powerful methods of generating [awe](Awe)
 * I love dreaminess
@@ -185,7 +201,7 @@ Sanctuaries are safe and secure.  They invoke warmth.  Warm lighting, warm food,
 * To some degree, a narrative should rely on euphemisms in such a way that it ironically feels like a children's story that is not a children's story.
 * Anything sexual in nature requires a euphemism.
 
-#### Reasons
+#### Motivation
 
 * Marloth narratives touch on a lot of heavy issues and euphemisms help minimize the sense of endless negativity.
 * Euphemisms add flavor, humor, and [implication](Implication).
@@ -210,7 +226,7 @@ The first book breaks most of these rules, but it is what it is.
 - Family should be presented as something that is valuable.
 - Don't just show dysfunctional family relationships.  Also show healthy family relationships.
 
-#### Reasons
+#### Motivation
 
 - Family is devalued in modern narratives.
   - Modern narratives either have an unrealistic lack of family relationships or focus on dysfunctional family relationships.
@@ -259,7 +275,7 @@ Marloth is a setting I call "Gothic Christianity".  Basically, it emphasizes and
   * Marloth is fractured into sub-worlds and those sub-worlds can be destroyed, though in such cases the residents wake up in a lower sub-world
 * If the world ever is saved at a grand scale, it should be saved by a Christ-character, not a protagonist
 
-#### Reasons
+#### Motivation
 
 * World saving is a pretentious power-trip
 * World saving loses all sense of scale and relatability
@@ -306,7 +322,7 @@ While Marloth is not about [personal contests](#personal-contests), it is about 
 - Each narrative should have multiple scenes with public forums.  The world is the stage.
 - Ideologies are mostly defined by what a person worships
 
-#### Reasons
+#### Motivation
 
 - Ideological conflict is one of the greatest ways to add depth and significance to a storyline.
 - Ideological conflicts are not about personal demonstration, they are about faith.  It is like betting on a horse and then seeing which horse wins. The people betting may be participants in the race, but it is not their individual qualities that determine the winning horse.  Those who trust in God will always win.
@@ -325,7 +341,7 @@ Marloth depends heavily on implication.
   * Exception: if the identity of the target is clearly hidden from the reader.
     * Example: "Suddenly **someone** screamed."
 
-#### Reasons
+#### Motivation
 
 * It exercises the reader's imagination
 * It adds a sense of mystery
@@ -376,7 +392,7 @@ When an audience witnesses multiple versions of a character or story, those diff
 * A Marloth narrative should have a significant amount of insane humor
 * Not every scene should be manic
 
-#### Reasons
+#### Motivation
 
 * Because I like mania.
 * Mania is overwhelming, and through that can add [dreaminess](#dreaminess) and [awe](#awe).
@@ -393,7 +409,7 @@ When an audience witnesses multiple versions of a character or story, those diff
     * Marloth is not about misfit pride.  Such arcs should be neither dragged out nor central
 * Through God's power, the heroes should surprise the world by triumphing over seemingly more powerful forces of evil
 
-#### Reasons
+#### Motivation
 
 * Audiences empathize with underdogs
 * Audiences relate to protagonists with flaws
@@ -424,7 +440,7 @@ I love mystery, but I don't like mystery novels.  The term *mystery novel* is al
   * This is less my rule than a natural rule
 * A narrative can occasionally switch whether ordinary or extraordinary are dominant, but should do so sparingly
 
-#### Reasons
+#### Motivation
 
 * Narratives should have elements of the ordinary.
   * Ordinary is healthy.
@@ -457,7 +473,7 @@ I love mystery, but I don't like mystery novels.  The term *mystery novel* is al
 * No personal contests.
 * No seeing which of two characters is stronger or smarter or a better fighter.
 
-#### Reasons
+#### Motivation
 
 * Personal contests encourage pride and insecurity.
 * Personal contests naturally boil down to viewing characters as single values.  When a 5 and a 7 fight each other, the 7 always wins.
@@ -487,7 +503,7 @@ Eventually Marloth will probably need more specialized bread-and-butter activiti
 * Some personalities are more geared toward problem solving than others, so be careful not to over skew every character to hard-boiled problem solving
   * Maybe I will find better techniques for how to handle this issue later.  Maybe have less problem-solving-personalities still solve problems in a less technical-looking way.
 
-#### Reasons
+#### Motivation
 
 * Problems defined this way help engage the audience
 * Problems defined this way help involve characters in the story more and reduce passivity
@@ -514,7 +530,7 @@ Eventually Marloth will probably need more specialized bread-and-butter activiti
   * At its heart, the rebellion is choosing between two masters
     * Rebelling against the more apparent master in favor of the less apparent master
 
-#### Reasons
+#### Motivation
 
 * A part of my personality is rebellious
 * Rebellion is bad when it is rebelling against good things
@@ -530,7 +546,7 @@ Eventually Marloth will probably need more specialized bread-and-butter activiti
 * Don't convey the idea that there is a single, special someone out there
 * Don't matchmake characters solely on personality
 
-#### Reasons
+#### Motivation
 
 * Love is about sacrifice and kindness, not personal chemistry
 * Ultimately, the health of a marriage is based on love, not personality
@@ -592,7 +608,7 @@ Eventually Marloth will probably need more specialized bread-and-butter activiti
 * Alongside the rules of [pacing](#pacing), temporal breaks should mostly exist near the start of a book and its parts.  The later parts of a book should have more temporal continuity.
   * The last part of the first book has nearly pure temporal continuity minus a few of its earlier scenes.  The bulk of its narrative takes place over the course of a single night.
 
-#### Reasons
+#### Motivation
 
 * I tend to prefer narratives with strong temporal continuity
 * Marloth narratives should have a significant sense of progress
@@ -643,7 +659,7 @@ Eventually Marloth will probably need more specialized bread-and-butter activiti
 - Each narrative should have both villain alliances and villain wars.
   - And villains backstabbing each other
 
-#### Reasons
+#### Motivation
 
 * For me it feels small and narrow to have a single villain
 * Having a singular villain tends to require more of a [personal contest](Personal Contests).

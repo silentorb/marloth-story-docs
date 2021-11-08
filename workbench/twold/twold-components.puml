@@ -1,0 +1,43 @@
+@startuml
+skinparam componentStyle rectangle
+
+(Nivana Story Arc) as nivanaArc
+[James and Adelle Marriage] as marriage
+[Band of Heroes] as heroes
+[Magic Agency] as magicAgency
+(James Searching for Adelle) as jamesSearching
+(James Employed by Agency) as jamesEmployed
+(James and Adelle Meet) as jamesAndAdelleMeet
+cloud "Conflict over Magic" as conflictOverMagic
+ cloud "Tension between\nSecular and Sacred" as tensionSS
+(Ignoring friends) as ignoringFriends
+(Nivana Envies Adelle) as nivanaEnvy
+(Nepotism) as nepotism
+(?) as question1
+(?) as question2
+(?) as question3
+
+jamesSearching --> question1
+question1 --> jamesEmployed
+question1 --> jamesAndAdelleMeet
+jamesAndAdelleMeet --> marriage
+jamesEmployed <-- magicAgency
+jamesEmployed --> marriage
+heroes --> tensionSS
+tensionSS <-- magicAgency
+marriage --> nepotism
+nepotism <-- heroes
+marriage --> tensionSS
+conflictOverMagic --> magicAgency
+conflictOverMagic --> heroes
+nivanaArc <-- conflictOverMagic
+jamesSearching --> ignoringFriends
+ignoringFriends <-- heroes
+nivanaArc --> nivanaEnvy
+nivanaEnvy <-- marriage
+nivanaArc --> question2
+question2 <-- heroes
+nivanaArc --> question3
+question3 <-- magicAgency
+nepotism --> nivanaEnvy
+@enduml
