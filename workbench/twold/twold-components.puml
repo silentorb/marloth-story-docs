@@ -1,21 +1,23 @@
 @startuml
 skinparam componentStyle rectangle
 
+[The Book] as book
+[Tralvorkemen] as tralvorkemen
+[Prayer] as prayer
 (Nivana Story Arc) as nivanaArc
 [James and Adelle Marriage] as marriage
 [Band of Heroes] as heroes
 [Magic Agency] as magicAgency
-(James Searching for Adelle) as jamesSearching
+(James Searching for Friends) as jamesSearching
 (James Employed by Agency) as jamesEmployed
 (James and Adelle Meet) as jamesAndAdelleMeet
 cloud "Conflict over Magic" as conflictOverMagic
 cloud "Tension between\nSecular and Sacred" as tensionSS
-(Ignoring friends) as ignoringFriends
 (Nivana Envies Adelle) as nivanaEnvy
-(Nepotism) as nepotism
 (?) as question1
 (?) as question2
-(?) as question3
+(Nivana Hunted\nby Agency?) as question3
+(?) as question4
 
 jamesSearching --> question1
 question1 --> jamesEmployed
@@ -25,21 +27,20 @@ jamesEmployed <-- magicAgency
 jamesEmployed --> marriage
 heroes --> tensionSS
 tensionSS <-- magicAgency
-marriage --> nepotism
-nepotism <-- heroes
+marriage --> question4
+question4 <-- heroes
 marriage --> tensionSS
 conflictOverMagic --> magicAgency
 conflictOverMagic --> heroes
 nivanaArc <-- conflictOverMagic
-jamesSearching --> ignoringFriends
-ignoringFriends <-- heroes
+jamesSearching <-- heroes
 nivanaArc --> nivanaEnvy
 nivanaEnvy <-- marriage
 nivanaArc --> question2
 question2 <-- heroes
 nivanaArc --> question3
 question3 <-- magicAgency
-nepotism --> nivanaEnvy
+question4 --> nivanaEnvy
 
 note top of question1
 What pulls James
@@ -47,13 +48,6 @@ back into the real world?
 
 The impetus needs to be
 connected to other nodes
-end note
-
-note top of question3
-More particular
-relationship
-than Conflict
-over Magic
 end note
 
 @enduml
